@@ -1,2 +1,2 @@
 # Cambicard
-Android app for exchanging gift cards
+Database-driven Android app for exchanging gift cards
